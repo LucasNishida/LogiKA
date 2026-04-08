@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Pong",
+            "request": "launch",
+            "mainClass": "EP2.pong2_incompleto.Pong",
+            "projectName": "codigos vs_2d94dedc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - oi",
+            "request": "launch",
+            "mainClass": "oi"
+        }
+    ]
+}
